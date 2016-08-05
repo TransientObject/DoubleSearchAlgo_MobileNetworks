@@ -1,0 +1,2 @@
+$ns_ node-config  -adhocRouting DSR \
+                 -ifqType CMUPriQueue \
